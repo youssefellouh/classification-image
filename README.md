@@ -39,5 +39,6 @@ source .venv/bin/activate
 ```
 ### 4. run projete
 ``` bash
-streamlit run app.py
+- run fichiere jupyter
+- streamlit run app.py
 ```
